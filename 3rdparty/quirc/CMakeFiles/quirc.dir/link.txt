@@ -1,0 +1,2 @@
+C:\Users\53065\Documents\Software\mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe qc ..\lib\libquirc.a  CMakeFiles/quirc.dir/src/decode.c.obj CMakeFiles/quirc.dir/src/quirc.c.obj CMakeFiles/quirc.dir/src/version_db.c.obj
+C:\Users\53065\Documents\Software\mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin\ranlib.exe ..\lib\libquirc.a

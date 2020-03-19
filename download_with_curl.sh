@@ -1,0 +1,1 @@
+curl --create-dirs --output "C:/Users/53065/Documents/Software/opencv/sources/.cache/ffmpeg/55c0bc8ad27db00116fabf06508de196-opencv_videoio_ffmpeg_64.dll" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/a66a24e9f410ae05da4baeeb8b451912664ce49c/ffmpeg/opencv_videoio_ffmpeg_64.dll"
